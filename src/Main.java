@@ -18,6 +18,6 @@ public class Main {
         int a = 10;
         System.out.println(a);
 
-        System.out.println("Это домашка 2!");
+        System.out.println("Это домашка 2!!!");
     }
 }
