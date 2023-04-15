@@ -15,7 +15,7 @@ public class Main {
             System.out.println();
         }
         System.out.println();
-        int a = "";
-        System.out.println;
+        int a = 10;
+        System.out.println(a);
     }
 }
